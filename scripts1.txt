@@ -1,0 +1,2 @@
+StartServer server1 tcp://localhost:11000/PCS tcp://localhost:8086/ServerObject 30 1
+StartClient client1 tcp://localhost:11000/PCS tcp://localhost:8070/ClientObject 30 1 ..\\..\\..\\client1.txt
